@@ -1,0 +1,19 @@
+ClassName: Product
+numberOfEntities: 3
+time: 25.04.08 15:18:41
+
+time: 25.04.08 15:18:41
+objectName: Apple
+price: 25.000000
+id: 1
+
+time: 25.04.08 15:18:41
+objectName: Banana
+price: 30.500000
+id: 2
+
+time: 25.04.08 15:18:41
+objectName: Orange
+price: 79.200000
+id: 3
+
